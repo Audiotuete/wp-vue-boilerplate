@@ -7,8 +7,8 @@
 <script>
 export default {
   name: 'idee',
-  data () { return 
-    {
+  data () {
+    return {
       msg: 'Die Idee dahinter'
     }
   }

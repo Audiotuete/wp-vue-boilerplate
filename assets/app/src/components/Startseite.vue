@@ -1,14 +1,15 @@
 <template>
   <div class="startseite">
     <h1>{{ msg }}</h1>
+
   </div>
 </template>
 
 <script>
 export default {
   name: 'Startseite',
-  data () { return 
-    {
+  data () {
+    return {
       msg: 'Willkommen auf der Startseite'
     }
   }
